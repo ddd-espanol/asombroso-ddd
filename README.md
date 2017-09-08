@@ -1,4 +1,11 @@
 # Asombroso DDD
+> Una lista cuidadosamente curada de recursos sobre Domain Driven Design, Eventos, Event Sourcing, Command Query Responsibility Segregation (CQRS).
+
+**Curado por [DDD Español](https://ddd-espanol.github.io/). También puedes [seguirnos en Twitter](https://twitter.com/dddespanol).**
+
+Aprender los conceptos básicos de Domain Driven Design puede ser una tarea dantesca. Si bien existen dos libros que son considerados clásicos ([Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV) e [Implementing Domain Driven Design](http://amzn.to/2wOBb1H)), encontrar material en castellano puede tornarse complicado.
+
+Por eso es que consideramos que tiene que existir una lista curada de recursos que faciliten este aprendizaje, ofreciendo además distintas opciones para que cada uno pueda elegir el camino que más le convenga a la hora de aprender cualquiera de estos conceptos.
 
 ## Tabla de Contenidos
 - [Libros](#libros)
