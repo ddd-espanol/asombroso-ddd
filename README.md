@@ -51,11 +51,13 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 
 ## Projectos Ejemplo
 
-- Agrega el primer link
+- [Proophesor-Do](https://github.com/prooph/proophessor-do) - Un ejemplo completo utilizando los componentes creados por [Prooph](http://getprooph.org/).
 
 ## Librerías y Frameworks
 
-- Agrega el primer link
+- [Broadway](https://github.com/broadway/broadway) - Una de las librerías más ampliamente usada en PHP para la creación sencilla de aplicaciones basadas en CQRS y Event Sourcing.
+- [Prooph](http://getprooph.org/) - Serie de componentes creados en PHP para creación de Aplicaciones Enterprise. Muy modulares y muy bien preparados para trabajar con los framworks más utilizados actualmente.
+- [Tactician](http://tactician.thephpleague.com/) - Muy simple y bien implementado CommandBus en PHP.
 
 ## Entrevistas y Podcasts
 
