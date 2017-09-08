@@ -15,11 +15,15 @@
 
 ## Libros
 
+- Agrega el primer link
+
 ## Artículos
 
 - [Resumen de Domain Driven Design de Eric Evans](http://tratandodeentenderlo.blogspot.nl/2013/08/domain-driven-design.html) - Artículo resumiendo brevemente el libro que comenzó con la revolución de [Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV).
 
 ## Cursos
+
+- Agrega el primer link
 
 ## Videos
 
@@ -39,14 +43,23 @@
 
 ## Projectos Ejemplo
 
+- Agrega el primer link
+
 ## Librerías y Frameworks
+
+- Agrega el primer link
 
 ## Entrevistas y Podcasts
 
+- Agrega el primer link
+
 ## Conferencias
+
+- Agrega el primer link
 
 ## Grupos de Usuarios
 
 - [Meetup Software Craftsmanship Alicante](https://www.meetup.com/Software-Craftsmanship-Alicante/)
 - [Meetup Mallorca Software Craftsmanship](https://www.meetup.com/Mallorca-Software-Craftsmanship/)
 - [Meetup Rigor Talks Barcelona](https://www.meetup.com/Barcelona-Rigor-Talks/)
+- [DDD Madrid](https://www.meetup.com/dddmadrid/)
