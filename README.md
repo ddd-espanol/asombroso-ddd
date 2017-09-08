@@ -22,7 +22,8 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 
 ## Libros
 
-- Agrega el primer link
+- [Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV) [EN]
+- [Implementing Domain Driven Design](http://amzn.to/2wOBb1H) [EN]
 
 ## Artículos
 
