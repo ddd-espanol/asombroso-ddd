@@ -16,7 +16,10 @@
 
 ## Cursos
 
-## Videos
+## Video
+
+- [De código acoplado al framework a microservicios pasando por DDD](https://codely.tv/screencasts/codigo-acoplado-framework-microservicios-ddd/) - Una reseña completa con ejemplos de código en PHP, pasando por testing a desacoplar el código de la implementación.
+- [Arquitectura Hexagonal](https://www.youtube.com/watch?v=GZ9ic9QSO5U&list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL&index=4) - Introducción a la Arquitectura Hexagonal o de Puertos y Adaptadores.
 
 ## Comunidades
 
