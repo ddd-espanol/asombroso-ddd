@@ -14,6 +14,8 @@
 
 ## Libros
 
+- [Resumen de Domain Driven Design de Eric Evans](http://tratandodeentenderlo.blogspot.nl/2013/08/domain-driven-design.html) - Artículo resumiendo brevemente el libro que comenzó con la revolución de [Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV).
+
 ## Cursos
 
 ## Videos
@@ -24,6 +26,8 @@
 ## Comunidades
 
 - [Grupo de Discusión DDD-es](https://groups.google.com/forum/#!forum/ddd-es) - Está un poco desactualizado y no se ve mucha actividad últimamente, pero el contenido que hay se mantiene actual.
+
+- [Grupo de Linkedin Domain Driven Design En Español](https://www.linkedin.com/groups/8462099/profile) - No existen muchos miembros, pero podemos cambiar eso.
 
 ## Blogs
 
