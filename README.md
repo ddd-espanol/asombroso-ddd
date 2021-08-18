@@ -31,7 +31,8 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 
 ## Cursos
 
-- Agrega el primer link
+Curso en Pluralsight
+https://app.pluralsight.com/course-player?clipId=eadf1495-0a4f-4d80-89e1-96b8aeb07e7e
 
 ## Videos
 
