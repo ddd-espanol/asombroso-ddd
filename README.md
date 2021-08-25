@@ -28,6 +28,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 ## Artículos
 
 - [Resumen de Domain Driven Design de Eric Evans](http://tratandodeentenderlo.blogspot.nl/2013/08/domain-driven-design.html) - Artículo resumiendo brevemente el libro que comenzó con la revolución de [Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV).
+- [Una introducción a Domain Driven Design por Fran Iglesias](https://franiglesias.github.io/ddd-intro/) - Vamos a comenzar un pequeño proyecto para aprender y profundizar en Domain Driven Design.
 
 ## Cursos
 
