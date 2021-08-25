@@ -31,7 +31,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 
 ## Cursos
 
-- Agrega el primer link
+- [https://github.com/UNIZAR-30249-LabIS/ddd-slides](Transparencias sobre Diseño Dirigido por el Dominio) - Curso de la asignatura "Laboratorio de Ingeniería del Software" del grado en ingeniería informática de la Universidad de Zaragoza, en la especialidad de ingeniería del software.
 
 ## Videos
 
