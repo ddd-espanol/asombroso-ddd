@@ -74,5 +74,5 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 
 - [Meetup Software Craftsmanship Alicante](https://www.meetup.com/Software-Craftsmanship-Alicante/)
 - [Meetup Mallorca Software Craftsmanship](https://www.meetup.com/Mallorca-Software-Craftsmanship/)
-- [Meetup Rigor Talks Barcelona](https://www.meetup.com/Barcelona-Rigor-Talks/)
 - [DDD Madrid](https://www.meetup.com/dddmadrid/)
+- [Barcelona Engineering Slack](https://bcneng.org/)
