@@ -28,11 +28,15 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 ## Artículos
 
 - [Resumen de Domain Driven Design de Eric Evans](http://tratandodeentenderlo.blogspot.nl/2013/08/domain-driven-design.html) - Artículo resumiendo brevemente el libro que comenzó con la revolución de [Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV).
+- [Una introducción a Domain Driven Design por Fran Iglesias](https://franiglesias.github.io/ddd-intro/) - Vamos a comenzar un pequeño proyecto para aprender y profundizar en Domain Driven Design.
 
 ## Cursos
 
-Curso en Pluralsight
-https://app.pluralsight.com/course-player?clipId=eadf1495-0a4f-4d80-89e1-96b8aeb07e7e
+
+- [Curso en Pluralsight](https://app.pluralsight.com/course-player?clipId=eadf1495-0a4f-4d80-89e1-96b8aeb07e7es) - Curso de introduccion a DDD
+
+- [Transparencias sobre Diseño Dirigido por el Dominio](https://github.com/UNIZAR-30249-LabIS/ddd-slides) - Curso de la asignatura "Laboratorio de Ingeniería del Software" del grado en ingeniería informática de la Universidad de Zaragoza, en la especialidad de ingeniería del software.
+
 
 ## Videos
 
