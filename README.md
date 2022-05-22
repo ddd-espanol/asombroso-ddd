@@ -24,7 +24,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 
 - [Domain Driven Design: Tackling Complexity in the Heart of Software](http://amzn.to/2eT39TV) [EN]
 - [Implementing Domain Driven Design](http://amzn.to/2wOBb1H) [EN]
-- [DDD Destilado by Vaughn Vernon y traducido por Carlos Buenos Vinos](https://kalele.io/books/ddd-destilado/)
+- [DDD Destilado by Vaughn Vernon y traducido por Carlos Buenosvinos](https://kalele.io/books/ddd-destilado/)
 
 ## Artículos
 
