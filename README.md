@@ -32,7 +32,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 - [Una introducción a Domain Driven Design por Fran Iglesias](https://franiglesias.github.io/ddd-intro/) - Vamos a comenzar un pequeño proyecto para aprender y profundizar en Domain Driven Design.
 
 ## Cursos
-- [Curso en Pluralsight](https://app.pluralsight.com/course-player?clipId=eadf1495-0a4f-4d80-89e1-96b8aeb07e7e) - Domain-Driven Design in Practice
+- [Curso en Pluralsight](https://app.pluralsight.com/course-player?clipId=eadf1495-0a4f-4d80-89e1-96b8aeb07e7e) [EN] - Domain-Driven Design in Practice
 - [Transparencias sobre Diseño Dirigido por el Dominio](https://github.com/UNIZAR-30249-LabIS/ddd-slides) - Curso de la asignatura "Laboratorio de Ingeniería del Software" del grado en ingeniería informática de la Universidad de Zaragoza, en la especialidad de ingeniería del software.
 
 ## Videos
@@ -40,8 +40,9 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 - [Domain-Driven Design Tactical Patterns por Carlos Buenosvinos](https://www.youtube.com/watch?v=uvKS6UCUZes&list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Excelente colección de videos sobre Domain Driven Design por [Carlos Buenosvinos](https://twitter.com/buenosvinos).
 - [De código acoplado al framework a microservicios pasando por DDD](https://codely.tv/screencasts/codigo-acoplado-framework-microservicios-ddd/) - Una reseña completa con ejemplos de código en PHP, pasando por testing a desacoplar el código de la implementación.
 - [Arquitectura Hexagonal](https://www.youtube.com/watch?v=GZ9ic9QSO5U&list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL&index=4) - Introducción a la Arquitectura Hexagonal o de Puertos y Adaptadores.
-- [DDD Europa 2016](https://dddeurope.com/2016/#speakers) [EN] - Videos con las ponencias durante DDD Europa 2016
-- [DDD Europa 2017](https://dddeurope.com/2017/#videos) [EN] - Videos con las ponencias durante DDD Europa 2017
+- [DDD Europa 2016](https://2016.dddeurope.com/#videos) [EN] - Videos con las ponencias durante DDD Europa 2016
+- [DDD Europa 2017](https://2017.dddeurope.com/#videos) [EN] - Videos con las ponencias durante DDD Europa 2017
+- [DDD Europa 2018](https://2018.dddeurope.com/#videos) [EN] - Videos con las ponencias durante DDD Europa 2018
 
 ## Comunidades
 
