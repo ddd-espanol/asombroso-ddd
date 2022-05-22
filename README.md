@@ -32,7 +32,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 - [Una introducción a Domain Driven Design por Fran Iglesias](https://franiglesias.github.io/ddd-intro/) - Vamos a comenzar un pequeño proyecto para aprender y profundizar en Domain Driven Design.
 
 ## Cursos
-
+- [Curso en Pluralsight](https://app.pluralsight.com/course-player?clipId=eadf1495-0a4f-4d80-89e1-96b8aeb07e7e) - Domain-Driven Design in Practice
 - [Transparencias sobre Diseño Dirigido por el Dominio](https://github.com/UNIZAR-30249-LabIS/ddd-slides) - Curso de la asignatura "Laboratorio de Ingeniería del Software" del grado en ingeniería informática de la Universidad de Zaragoza, en la especialidad de ingeniería del software.
 
 ## Videos
