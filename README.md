@@ -44,6 +44,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 - [DDD Europa 2017](https://2017.dddeurope.com/#videos) [EN] - Videos con las ponencias durante DDD Europa 2017
 - [DDD Europa 2018](https://2018.dddeurope.com/#videos) [EN] - Videos con las ponencias durante DDD Europa 2018
 
+- [Domain Driven Design (DDD) - Diseño guiado por el dominio - Evento de Endava](https://www.youtube.com/watch?v=Mn4TFBXa_2g&list=PLJAV8TRWMyvoOnqfERFwvLJaTnLV35SqW&index=31) - Video con pequeña explicación de DDD
 ## Comunidades
 
 - [Grupo de Discusión DDD-es](https://groups.google.com/forum/#!forum/ddd-es) - Está un poco desactualizado y no se ve mucha actividad últimamente, pero el contenido que hay se mantiene actual.
